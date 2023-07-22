@@ -341,6 +341,34 @@ h3{
     #header1{
         background-attachment: fixed;
     }
+.container{
+    padding-top: 30px;
+    padding-left: 210px;
+    padding-bottom: 40PX;
+}
+.Tour{
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer {
+    padding-top: 40PX;
+    background-color: #b3aaaa27;
+    color: #060606;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+.saibabu{
+    color: black;
+
+}
+.sai{
+    color: red;
+}
+
 
 
 
