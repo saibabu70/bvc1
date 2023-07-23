@@ -341,10 +341,11 @@ h3{
     #header1{
         background-attachment: fixed;
     }
-.container1{
+.container{
     padding-top: 30px;
-    padding-left:300px;
-    padding-bottom: 40PX;
+    padding-left: 20%;
+    position: center;
+    padding-bottom: 20px;
 }
 .Tour{
     padding-top: 50px;
